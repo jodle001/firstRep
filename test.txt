@@ -1,3 +1,4 @@
 The 'i' key allows you to insert into a vim file.
 Use the 'esc' key to stop inserting test.
 use the ':wq' command to save and close the vim editor.
+This is a change that I want to check with git diff.
