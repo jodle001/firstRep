@@ -3,3 +3,4 @@ Use the 'esc' key to stop inserting test.
 use the ':wq' command to save and close the vim editor.
 This is a change that I want to check with git diff.
 This is a test.
+I want to add more to this document.
